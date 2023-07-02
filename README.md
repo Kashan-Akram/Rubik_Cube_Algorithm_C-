@@ -22,7 +22,8 @@ starting from the top-left corner of the upper face and going clockwise,
 followed by the same order for the other faces.
 
 The program will output the solution as a sequence of moves to solve the Rubik's Cube.
-Each move is represented as a string, 
-    where 'U' denotes a clockwise rotation of the upper face, 
+Each move is represented as a string, where
+    
+    'U' denotes a clockwise rotation of the upper face, 
     'U' denotes a counterclockwise rotation, 
     'U2' denotes a 180-degree rotation, and so on for the other faces.
