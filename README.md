@@ -9,6 +9,7 @@ The solveCube() function combines these two phases to solve the Rubik's Cube.
 To use this program, we need to provide the initial state of the Rubik's Cube in the cubeState variable. 
 The state should be represented as a string, where each character represents the color of a specific cubie in the solved state. 
 For example, 
+
     'U' for the upper face
     'R' for the right face
     'F' for the front face 
