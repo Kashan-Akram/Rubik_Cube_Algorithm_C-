@@ -1,3 +1,5 @@
+This implementation uses the Thistlethwaite's algorithm as a preprocessor to reduce the cube to a more manageable state before applying Kociemba's algorithm.
+
 This program defines two main functions: 
     phase1() implements Thistlethwaite's algorithm for Phase 1, 
     and phase2() implements Herbert Kociemba's Two-Phase algorithm for Phase 2. 
